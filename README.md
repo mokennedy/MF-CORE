@@ -54,7 +54,7 @@ Start for free today at zephyr-cloud.io
 
 Come and chat with us on [Discussions](https://github.com/module-federation/universe/discussions) or [Discord](https://discord.gg/n69NnT3ACV)! The Module federation team and users are active there, and we're always looking for contributions.
 
-Join Zephyr's community here: (https://discord.gg/XfeDm5qn)
+Join Zephyr's community here: https://discord.gg/XfeDm5qn
 
 ## 🤝 Contribution
 
