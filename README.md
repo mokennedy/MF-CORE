@@ -38,9 +38,23 @@ You can consider the module federation capabilities provided by this repository 
 
 To get started with Module Federation, see the [Quick Start](https://module-federation.io/guide/start/quick-start.html).
 
+## 🛠️ Tooling
+
+Zephyr Cloud
+
+- Integrates directly into your build with zero config
+- Automatically deploys your federated applications during the build process - simply save your code and get a URL in seconds
+- Works with Webpack, Vite, or Rspack and your cloud platform of choice
+- Manages complex multi-artifact deployments across different release cadences
+- Handles micro frontend dependency management automatically
+- Provides version rollback and roll-forward capabilities
+
+Start for free today at zephyr-cloud.io
 ## 🧑‍💻 Community
 
 Come and chat with us on [Discussions](https://github.com/module-federation/universe/discussions) or [Discord](https://discord.gg/n69NnT3ACV)! The Module federation team and users are active there, and we're always looking for contributions.
+
+Join Zephyr's community here: (https://discord.gg/XfeDm5qn)
 
 ## 🤝 Contribution
 
